@@ -1,4 +1,4 @@
-<div id="badges">
+<div id="badges", align="center">
   <a href="https://www.instagram.com/ahurtnd">
     <img src="https://img.shields.io/badge/Instagram-414d41?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
