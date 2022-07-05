@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="https://instagram/ahurtnd">
+  <a href="https://www.instagram.com/ahurtnd">
     <img src="https://img.shields.io/badge/Instagram-yellowgreen?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCAa5FyxrnyvhoTVftm-lERA">
